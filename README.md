@@ -33,8 +33,6 @@ breast-cancer-ml-pipeline
 │   │   ├── roc_curve_comparison.png
 │   │   ├── confusion_matrix_comparison.png
 │   │   └── feature_importance.png
-│   │
-│   └── model_comparison_metrics.csv
 │
 ├── requirements.txt
 └── README.md
